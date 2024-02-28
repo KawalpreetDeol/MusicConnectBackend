@@ -11,7 +11,6 @@ The purpose of the backend is to provide a scalable, secure, and efficient infra
 ## Technologies Used
 
 - **Node.js**: A JavaScript runtime built on Chrome's V8 JavaScript engine, used for creating the server-side environment.
-- **Firebase Hosting**: Hosts the backend, providing a scalable infrastructure for web applications and static content.
 - **Firebase Functions**: A serverless framework that lets you automatically run backend code in response to events triggered by Firebase features and HTTPS requests.
 - **Firebase Authentication**: Manages user authentication and sessions, supporting various authentication methods including email and password, third-party providers, and more.
 - **Firebase Firestore**: A NoSQL database for storing and synchronizing data in real-time.
